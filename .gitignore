@@ -1,0 +1,21 @@
+# Ignore datasets
+images.zip
+masks.zip
+processed.zip
+
+# Ignore trained models
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
